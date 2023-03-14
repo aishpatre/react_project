@@ -126,5 +126,14 @@ const Menu =[
         description:
         " We eat with our eyes first, but before we see our food, we picture it while reading the menu descriptions. They say one image is worth a thousand words, but don’t underestimate the power of words. A few strategically placed words here and there can make your food and wine descriptions increase your restaurant’s sales kjnjkn" 
     },
+    {
+        id:15,
+        image:"../images/Sushi.jpg",
+        name:"Sushi",
+        category:"dinner",
+        price: "100$",
+        description:
+        " We eat with our eyes first, but before we see our food, we picture it while reading the menu descriptions. They say one image is worth a thousand words, but don’t underestimate the power of words. A few strategically placed words here and there can make your food and wine descriptions increase your restaurant’s sales kjnjkn" 
+    }
 ];
 export default Menu;
